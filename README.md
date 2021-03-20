@@ -11,4 +11,4 @@ Sections
 ✔️ Twitter Timeline
 ✔️ Github Profile
 
-To view a live example, click here.
+To view a live example, https://nikhilambhore01.github.io/MyResume/
