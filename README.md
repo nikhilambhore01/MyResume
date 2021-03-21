@@ -10,5 +10,4 @@ Sections
 ✔️ Contact me
 ✔️ Twitter Timeline
 ✔️ Github Profile
-
-To view a live example, https://nikhilambhore01.github.io/MyResume/
+[click hear](https://nikhilambhore01.github.io/MyResume/)
