@@ -8,6 +8,5 @@ Sections
 ✔️ Work Experience
 ✔️ Achievements And Certifications 🏆
 ✔️ Contact me
-✔️ Twitter Timeline
 ✔️ Github Profile
 [click hear](https://nikhilambhore01.github.io/MyResume/)
