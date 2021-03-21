@@ -15,7 +15,7 @@ body::-webkit-scrollbar {
 #body-header {
   height: 65vh;
   opacity: 0.8;
-  background-image: url(https://www.teahub.io/photos/full/348-3483789_slide1-background-web-banner-design-technology.jpg);
+  background-image: url(https://www.teahub.io/photos/full/39-398853_photo-wallpaper-line-abstraction-internet-social-media-design.jpg);
 
   background-size: cover;
   background-position: center;
@@ -120,9 +120,10 @@ body::-webkit-scrollbar {
 
 #social-contaner {
   margin-top: 20vh;
+  line-height: 0.5;
 }
 #my-name {
-  color: rgb(16, 56, 143);
+  color: rgb(255, 255, 255);
   font-size: 3rem;
   font-weight: 700;
   margin-bottom: 0.5rem;
@@ -130,6 +131,9 @@ body::-webkit-scrollbar {
   text-shadow: 2px 2px 4px rgba(230, 196, 196, 0.3);
 }
 
+#social-contaner h4 {
+  color: rgb(255, 255, 255);
+}
 
 .social-icon li a i {
   padding: 10px;
