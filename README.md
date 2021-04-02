@@ -1,7 +1,7 @@
 # MyResume
 - Basic Resume using  Html, css &amp; js
 
-- 	** Sections **
+- 	***Sections***
 - ✔️ Summary and About me
 - ✔️ Skills
 - ✔️ Education
