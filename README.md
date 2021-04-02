@@ -9,4 +9,6 @@
 - ✔️ Achievements And Certifications 🏆
 - ✔️ Contact me
 - ✔️ Github Profile
-- [click hear](https://nikhilambhore01.github.io/MyResume/)
+
+- **Hosting Link**
+- [MyResume](https://nikhilambhore01.github.io/MyResume/)
